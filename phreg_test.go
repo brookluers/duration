@@ -9,8 +9,8 @@ import (
 	"gonum.org/v1/gonum/floats"
 	"gonum.org/v1/gonum/optimize"
 
-	"github.com/kshedden/dstream/dstream"
-	"github.com/kshedden/statmodel"
+	"github.com/brookluers/dstream/dstream"
+	"github.com/brookluers/statmodel"
 )
 
 func data1() dstream.Dstream {

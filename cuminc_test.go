@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 func TestCI1(t *testing.T) {

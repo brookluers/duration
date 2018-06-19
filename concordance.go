@@ -7,7 +7,7 @@ import (
 
 	"gonum.org/v1/gonum/floats"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 // Concordance calculates the survival concordance of Uno et al.

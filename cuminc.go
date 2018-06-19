@@ -6,7 +6,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 // CumincRight estimates the cumulative incidence functions for

@@ -6,7 +6,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/kshedden/dstream/dstream"
+	"github.com/brookluers/dstream/dstream"
 )
 
 // SurvfuncRight uses the method of Kaplan and Meier to estimate the
